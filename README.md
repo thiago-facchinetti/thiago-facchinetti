@@ -1,37 +1,132 @@
-#Opa, tudo beleza ? 👋
+<div align="center">
 
-🎓 Meu nome é Thiago Facchinetti, sou Desenvolvedor Web e programador.
-👩🏻‍💻 Sou desenvolvedor desde 2023, já atuei como analista do TOTVS RM, atuei com sistemas legados e ERP de universidades e desenvolvi e programei diversos sistemas web ao longo da minha carreira.
-🏆 Atualmente sou dono da SELECT Software, consultoria de desenvolvimento, programação e automação.
-🎯 Meu objetivo é conseguir atingir o máximo de pessoas possível com meus conteúdos e trazer soluções. 
+# 👨‍💻 Thiago Facchinetti
 
-💜 Seja muito bem vindo ao meu Github!
+### Web Developer • Automation Engineer • Founder of SELECT Software
 
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Web+Developer;Automation+Engineer;ERP+%26+Legacy+Systems;Docker+%7C+Cloud+%7C+Infrastructure;Building+Solutions+for+Real+Businesses" />
 
+---
 
-##Hey, everything alright? 👋
+💜 Welcome to my GitHub!
 
-🎓 My name is Thiago Facchinetti, I am a Web Developer and programmer.
-👩🏻‍💻 I have been a developer since 2023, I have worked as an analyst at TOTVS RM, worked with legacy systems and ERP for universities, and developed and programmed several web systems throughout my career.
-🏆 Currently, I own SELECT Software, a development, programming, and automation consulting firm.
+</div>
 
-🎯 My goal is to reach as many people as possible with my content and provide solutions.
+---
 
+# 🇧🇷 Sobre mim
 
+🎓 Meu nome é **Thiago Facchinetti**, sou Desenvolvedor Web e programador.  
+👨‍💻 Atuo com desenvolvimento desde 2023, trabalhando com sistemas web, automações, infraestrutura e integração de sistemas.  
 
-💜 Welcome to my Github!
+🏢 Já atuei como analista do **TOTVS RM**, trabalhando com:
+- Sistemas legados
+- ERP para universidades
+- Integrações
+- Infraestrutura
+- Desenvolvimento web
 
+🚀 Atualmente sou fundador da **SELECT Software**, uma consultoria focada em:
+- Desenvolvimento de sistemas
+- Programação
+- Automação
+- Infraestrutura
+- Soluções empresariais
 
+🎯 Meu objetivo é criar soluções reais que impactem pessoas e empresas através da tecnologia.
 
+---
 
-##SKILLS
-         
-<img width="30px" src="https://camo.githubusercontent.com/e98dd586f182794534abbd3119275641d036a5feb5889c8f0776afe0e747a0e3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;"><img width="30px" src="https://camo.githubusercontent.com/dc6608a7775ed066d45dce22e3810c4d97318c32de9098569b0a3c8d813f5ef5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;"><img width="30px" src="https://camo.githubusercontent.com/eb004cb648d3c21c3855a309f35b18f7e383133592d9a501c2d9ed82a9182b62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;"><img width="30px" src="https://camo.githubusercontent.com/64e7790ec87ef18081623befc8bfed18ecc6c856e27f814d7504ad931b40f3ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;">
+# 🇺🇸 About me
 
+🎓 My name is **Thiago Facchinetti**, I am a Web Developer and programmer.  
+👨‍💻 I have been working with development since 2023, focusing on web systems, automation, infrastructure, and integrations.
 
+🏢 I previously worked as a **TOTVS RM Analyst**, dealing with:
+- Legacy systems
+- University ERP systems
+- Integrations
+- Infrastructure
+- Web development
 
-<div>
-<a href="https://instagram.com/thiago.facchinetti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:thiago@selectsoftware.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thiago-facchinetti-183b1b124/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+🚀 Currently, I am the founder of **SELECT Software**, a consulting company focused on:
+- Software development
+- Programming
+- Automation
+- Infrastructure
+- Business solutions
+
+🎯 My goal is to create real-world solutions that positively impact people and businesses through technology.
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thythyko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thythyko&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠️ What I Like Building
+
+✅ Web Systems  
+✅ ERP Integrations  
+✅ Automation Platforms  
+✅ Infrastructure & Docker  
+✅ Internal Business Tools  
+✅ Monitoring & Observability  
+✅ Cloudflare / Reverse Proxy / VPN Solutions  
+✅ APIs & Integrations  
+
+---
+
+# 🌎 Connect with me
+
+<div align="center">
+
+<a href="https://instagram.com/thiago.facchinetti" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:thiago@selectsoftware.com.br">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/thiago-facchinetti-183b1b124/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile
+
+_"Technology only makes sense when it solves real problems."_ 🚀
+
 </div>
