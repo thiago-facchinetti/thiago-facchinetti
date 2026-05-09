@@ -1,16 +1,16 @@
 <div align="center">
 
 # 👨‍💻 Thiago Facchinetti
-💜 Welcome to my GitHub!
+
 
 ### Web Developer • Automation Engineer • Founder of SELECT Software
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Web+Developer;Automation+Engineer;ERP+%26+Legacy+Systems;Docker+%7C+Cloud+%7C+Infrastructure;Building+Solutions+for+Real+Businesses" />
 
+💜 Welcome to my GitHub!
 </div>
 
 ---
-
 # 🇧🇷 Sobre mim
 
 🎓 Meu nome é **Thiago Facchinetti**, sou Desenvolvedor Web e programador.  
